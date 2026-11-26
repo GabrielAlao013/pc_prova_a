@@ -1,4 +1,15 @@
 body{
-    background-image: url(../assets/fundo_gp_1.jpg);
+    background-image: url(../assets/fundo_gamer_1.jfif);
     background-size: cover;
+}
+.btn-news {
+    background-color: #7029c9;
+    border-color: #7029c9;
+    color: white;
+}
+
+.btn-news:hover {
+    background-color: #501b91;
+    border-color: #501b91;
+    color: white;
 }
