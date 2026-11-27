@@ -1,3 +1,4 @@
+
 [
     {
         "id": 1,
@@ -10,21 +11,21 @@
         "extrato": [
             {
                 "id": 1,
-                "data": "2024-06-01",
-                "descricao": "Compra no Supermercado",
-                "valor": -150.00
+                "data": "2026-11-20",
+                "descricao": "Conquista desbloqueada - Primeiro jogo",
+                "valor": 150
             },
             {
                 "id": 2,
-                "data": "2024-06-05",
-                "descricao": "Depósito em dinheiro",
-                "valor": 5200.00
+                "data": "2026-11-23",
+                "descricao": "Missão concluída - Aventureiro",
+                "valor": 300
             },
             {
                 "id": 3,
-                "data": "2024-06-10",
-                "descricao": "Pagamento de conta de luz",
-                "valor": -200.00
+                "data": "2026-11-26",
+                "descricao": "Participação em evento gamer",
+                "valor": 200
             }
         ]
     },
@@ -39,21 +40,21 @@
         "extrato": [
             {
                 "id": 1,
-                "data": "2024-06-01",
-                "descricao": "Compra no Supermercado",
-                "valor": -150.00
+                "data": "2026-11-19",
+                "descricao": "Desafio diário concluído",
+                "valor": 250
             },
             {
                 "id": 2,
-                "data": "2024-06-05",
-                "descricao": "Depósito em dinheiro",
-                "valor": 5200.00
+                "data": "2026-11-22",
+                "descricao": "Conquista desbloqueada - Explorador",
+                "valor": 400
             },
             {
                 "id": 3,
-                "data": "2024-06-10",
-                "descricao": "Pagamento de conta de luz",
-                "valor": -200.00
+                "data": "2026-11-25",
+                "descricao": "Participação em campeonato",
+                "valor": 150
             }
         ]
     },
@@ -68,21 +69,21 @@
         "extrato": [
             {
                 "id": 1,
-                "data": "2024-06-01",
-                "descricao": "Compra no Supermercado",
-                "valor": -250.00
+                "data": "2026-11-18",
+                "descricao": "Missão especial concluída",
+                "valor": 500
             },
             {
                 "id": 2,
-                "data": "2024-06-05",
-                "descricao": "Depósito em dinheiro",
-                "valor": 500.00
+                "data": "2026-11-22",
+                "descricao": "Conquista desbloqueada - Mestre dos jogos",
+                "valor": 350
             },
             {
                 "id": 3,
-                "data": "2024-06-10",
-                "descricao": "Pagamento de conta de luz",
-                "valor": -120.00
+                "data": "2026-11-26",
+                "descricao": "Desafio semanal concluído",
+                "valor": 250
             }
         ]
     },
@@ -97,21 +98,137 @@
         "extrato": [
             {
                 "id": 1,
-                "data": "2024-06-01",
-                "descricao": "Compra no Supermercado",
-                "valor": -150.00
+                "data": "2026-11-20",
+                "descricao": "Primeiro acesso ao GameHub",
+                "valor": 100
             },
             {
                 "id": 2,
-                "data": "2024-06-05",
-                "descricao": "Depósito em dinheiro",
-                "valor": 35.00
+                "data": "2026-11-24",
+                "descricao": "Missão diária concluída",
+                "valor": 200
             },
             {
                 "id": 3,
-                "data": "2024-06-10",
-                "descricao": "Pagamento de conta de luz",
-                "valor": -800.00
+                "data": "2026-11-26",
+                "descricao": "Conquista desbloqueada - Iniciante",
+                "valor": 150
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "shadowplayer",
+        "email": "shadowplayer@gamehub.com",
+        "photoUrl": "",
+        "senha": "123456",
+        "saldo": 2800,
+        "pontos": 1800,
+        "extrato": [
+            {
+                "id": 1,
+                "data": "2026-11-19",
+                "descricao": "Campeão do desafio semanal",
+                "valor": 500
+            },
+            {
+                "id": 2,
+                "data": "2026-11-23",
+                "descricao": "Conquista desbloqueada - Veterano",
+                "valor": 350
+            },
+            {
+                "id": 3,
+                "data": "2026-11-26",
+                "descricao": "Participação em evento especial",
+                "valor": 250
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "pixelmaster",
+        "email": "pixelmaster@gamehub.com",
+        "photoUrl": "",
+        "senha": "654321",
+        "saldo": 4100,
+        "pontos": 2500,
+        "extrato": [
+            {
+                "id": 1,
+                "data": "2026-11-18",
+                "descricao": "Conquista desbloqueada - Colecionador",
+                "valor": 400
+            },
+            {
+                "id": 2,
+                "data": "2026-11-22",
+                "descricao": "Missão especial concluída",
+                "valor": 600
+            },
+            {
+                "id": 3,
+                "data": "2026-11-25",
+                "descricao": "Desafio multiplayer concluído",
+                "valor": 300
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "nightgamer",
+        "email": "nightgamer@gamehub.com",
+        "photoUrl": "",
+        "senha": "789123",
+        "saldo": 1900,
+        "pontos": 950,
+        "extrato": [
+            {
+                "id": 1,
+                "data": "2026-11-20",
+                "descricao": "Primeira missão concluída",
+                "valor": 150
+            },
+            {
+                "id": 2,
+                "data": "2026-11-24",
+                "descricao": "Conquista desbloqueada - Explorador",
+                "valor": 300
+            },
+            {
+                "id": 3,
+                "data": "2026-11-26",
+                "descricao": "Desafio diário concluído",
+                "valor": 200
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "dragonplayer",
+        "email": "dragonplayer@gamehub.com",
+        "photoUrl": "",
+        "senha": "456789",
+        "saldo": 7500,
+        "pontos": 3200,
+        "extrato": [
+            {
+                "id": 1,
+                "data": "2026-11-19",
+                "descricao": "Conquista desbloqueada - Lenda gamer",
+                "valor": 700
+            },
+            {
+                "id": 2,
+                "data": "2026-11-23",
+                "descricao": "Vitória em campeonato",
+                "valor": 800
+            },
+            {
+                "id": 3,
+                "data": "2026-11-26",
+                "descricao": "Missão lendária concluída",
+                "valor": 500
             }
         ]
     }
